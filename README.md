@@ -36,7 +36,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasplcorrea&show_icons=true&theme=tokyonight&hide_rank=true&locale=pt-br" />
 </a>
 <a href="https://github.com/lucasplcorrea">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasplcorrea&layout=compact&langs_count=8&locale=pt-br&theme=tokyonight&custom_title=Eu%20costumo%20escrever%20em:" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasplcorrea&layout=compact&langs_count=8&locale=pt-br&theme=tokyonight" />
 </a>
 </div>
 
