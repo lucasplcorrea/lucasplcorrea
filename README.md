@@ -1,10 +1,11 @@
 ### Olá mundo! Eu sou o Lucas🤙
 
 - 🔭 Atualmente trabalho como Tabelião Substituto no 1º Tabelionato de Notas e 3º Ofício de Protestos de Florianópolis, SC, mas nas horas vagas aprendo sobre desenvolvimento Web.
-- 🌱 Atualmente, estou aprendendo: HTML, CSS, JavaScript, PHP e SQL (não necessariamente nessa ordem)
 - 👯 Adoraria colaborar em projetos OpenSource
-- 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Updates sem where executados: 0.
+
+##
+O que estou aprendendo no momento
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
