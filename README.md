@@ -33,10 +33,10 @@
 
 <div>
 <a href="https://github.com/lucasplcorrea">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasplcorrea&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&locale=pt-br&rank_icon=github&card_width=400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasplcorrea&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&locale=pt-br&rank_icon=github&card_width=400" />
 </a>
 <a href="https://github.com/lucasplcorrea">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasplcorrea&layout=compact&langs_count=8&locale=pt-br&theme=tokyonight&card_width=400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasplcorrea&layout=compact&langs_count=8&locale=pt-br&theme=tokyonight&card_width=400" />
 </a>
 </div>
 
