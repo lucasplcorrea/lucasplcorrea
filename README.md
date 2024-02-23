@@ -43,8 +43,6 @@
 
 ##
 
-### Atualmente estou trabalhando em:
-[![Moviedle](https://github-readme-stats.vercel.app/api/pin/?username=lucasplcorrea&repo=Moviedle&locale=pt-br&theme=transparent)](https://github.com/lucasplcorrea/Moviedle)
 
 ### Meus Projetos Recentes
 [![Web Scrapper CENPROT](https://github-readme-stats.vercel.app/api/pin/?username=lucasplcorrea&repo=WebScrapperCENPROT&locale=pt-br&theme=transparent)](https://github.com/lucasplcorrea/WebScrapperCENPROT)
