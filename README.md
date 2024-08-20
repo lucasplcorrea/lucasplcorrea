@@ -1,6 +1,6 @@
 ### Olá mundo! Eu sou o Lucas🤙
 
-- 🔭 Atualmente trabalho como Tabelião Substituto no 1º Tabelionato de Notas e 3º Ofício de Protestos de Florianópolis, SC, mas nas horas vagas aprendo sobre desenvolvimento Web.
+- 🔭 Atualmente trabalho como Escrevente Substituto na Escrivania de Paz do Distrito de Boa Vista, Joinville, SC, mas nas horas vagas aprendo sobre desenvolvimento Web.
 - 👯 Adoraria colaborar em projetos OpenSource
 - ⚡ Fun fact: Updates sem where executados: 0.
 
