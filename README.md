@@ -1,6 +1,6 @@
 # Hello World! Eu sou o Lucas! 🤙
 
-🔧 **Escrevendo código e explorando novas soluções!**  
+🔧 **Sou um desenvolverdor em desenvolvimento**  
 💼 Atualmente trabalho na **BC2C Gestão em Tecnologia**, mas sempre encontro um tempinho para aprimorar minhas habilidades e contribuir com a comunidade.  
 🌐 **Adoro** aprender e compartilhar conhecimento em projetos **Open Source**.  
 ⚡ **Fun fact:** O número de updates sem `WHERE` executados por mim é... *zero*! 😅  
