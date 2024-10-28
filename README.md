@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ O já domino, mas sempre busco me aperfeiçoar cada vez mais:
+## 🛠️ O que já domino, mas sempre busco me aperfeiçoar cada vez mais:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,7 +57,7 @@
 
 ---
 
-## 📈 O Que Estou Aprendendo Atualmente:
+## 📈 O que eu estou aprendendo atualmente:
 ![RouterOS](https://img.shields.io/badge/RouterOS-D82C2E?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
